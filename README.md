@@ -13,3 +13,7 @@ HLS Player is built with:
 - [HLS.js](https://github.com/video-dev/hls.js/tree/master)
 
 ##
+
+## Modified from
+
+[Sean Brage](https://github.com/bearguns/HLSPlayer)
